@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+    <style name="EmptyTheme" parent="">
+    </style>
+    <style name="Header_bar" parent="">
+        <item name="android:background">#d6d7f2</item>
+    </style>
+    <style name="edit_text" parent="">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/bottom_icon</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+    </style>
+    <style name="header" parent="">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/bottom_icon</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+    </style>
+    <style name="just_text" parent="">
+        <item name="android:padding">1dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+    </style>
+    <style name="table_header" parent="">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/bottom_icon</item>
+        <item name="android:background">@drawable/table</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="table_just_text" parent="">
+        <item name="android:background">@drawable/table</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    </resources>
